@@ -1,0 +1,34 @@
+.chat_container{
+    margin-top: 200px;
+}
+
+.chat_join_form {
+    text-align: center;
+    padding: 80px 10px
+}
+
+.chat_join_button{
+    margin-top: 10px
+}
+
+.chat_join_form_name{
+    margin-top: 10px;
+}
+
+.chat_grid{
+    padding: 20px
+}
+
+.chat_dialog_container{
+    margin-top: 50px;
+    min-height: 600px
+}
+
+
+.chat_message_form{
+    margin-top: 20px;
+}
+
+.chat_message_field{
+    width: 100%;
+}
